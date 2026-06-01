@@ -31,7 +31,7 @@ Cette application Winform a été développée sur Visual Studio en C#, dans le 
 
 Le projet Inscryption est un jeu de stratégie et de construction de deck.
 
-Ce jeu a été programmé dans le cadre de la programmation orientée objet en Java. Il propose une exprérience interactive à l'utilisateur, qui peut écrire des actions à faire et en voir les conséquences dans la console Java.
+Ce jeu a été programmé dans le cadre de la programmation orientée objet en Java, sur IntelliJi. Il propose une exprérience interactive à l'utilisateur, qui peut écrire des actions à faire et en voir les conséquences dans la console Java.
 
 **Projet réseau**
 
