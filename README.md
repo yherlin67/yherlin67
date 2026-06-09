@@ -19,20 +19,6 @@ Sur mon profil, vous pourrez retrouver plusieurs projets auxquels j'ai eu l'occa
 
 # Mes projets
 
-**Projet Stargate**
+Mes projets reflètent les différents domaines abordés durant ma 1ère année de BUT Informatique. On y retrouve notamment une application de gestion de données WinForms en C#, un jeu de stratégie utilisant la programmation orientée objet en Java, ainsi qu'une simulation des échanges bas niveau au sein d'un réseau en C. Chacun d'entre eux m'a permis de mettre en pratique des notions vues en formation, et d'améliorer mes compétences en informatique.
 
-Le projet Stargate est une application de gestion s'inspirant de la fameuse série éponyme. 
 
-Dans cette application, vous pouvez vous glisser dans la peau d'un explorateur spatial en planifiant vos missions à venir, en consultants les différentes espèces d'aliens auxquelles vous serez confronté et bien plus encore. 
-
-Cette application Winform a été développée sur Visual Studio en C#, dans le cadre du framework DotNet. De plus, elle manipule une base de données pour stocker différentes informations, à l'aide des classes ADO.Net intégrée au framework.
-
-**Projet Inscryption**
-
-Le projet Inscryption est un jeu de stratégie et de construction de deck.
-
-Ce jeu a été programmé dans le cadre de la programmation orientée objet en Java, sur IntelliJi. Il propose une exprérience interactive à l'utilisateur, qui peut écrire des actions à faire et en voir les conséquences dans la console Java.
-
-**Projet réseau**
-
-Ce projet a pour but de représenter les échanges bas niveaux au sein d'un LAN en C. Pour cela, différentes structures de données ont été implémentées, utilisants des fichiers textes de configuration permettant de mettre en place le réseau à la lecture.
