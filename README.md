@@ -17,6 +17,16 @@ De plus, je souhaiterais approfondir mes connaissances en réseaux informatiques
 
 Sur mon profil, vous pourrez retrouver plusieurs projets auxquels j'ai eu l'occasion de contribuer durant mon cursus.
 
+# Mes statistiques
+
+<div align="center">
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yherlin67&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=yherlin67&show_icons=true&include_all_commits=true&theme=tokyonight)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=yherlin67&layout=donut&langs_count=8&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=yherlin67&layout=donut&langs_count=8&theme=tokyonight)
+
+</div>
+
 # Mes projets
 
 Mes projets épinglés reflètent les différents domaines abordés durant ma 1ère année de BUT Informatique. On y retrouve une application de gestion de données WinForms en C#, un jeu de stratégie utilisant la programmation orientée objet en Java, ainsi qu'une simulation des échanges bas niveau au sein d'un réseau en C. Chacun d'entre eux m'a permis de mettre en pratique des notions vues en formation, et d'améliorer mes compétences en informatique.
