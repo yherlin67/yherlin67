@@ -21,7 +21,7 @@ Sur mon profil, vous pourrez retrouver plusieurs projets auxquels j'ai eu l'occa
 
 <div align="center">
   
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yherlin67&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=yherlin67&show_icons=true&include_all_commits=true&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yherlin67&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=yherlin67&include_all_commits=true&theme=tokyonight)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=yherlin67&layout=donut&langs_count=8&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=yherlin67&layout=donut&langs_count=8&theme=tokyonight)
 
