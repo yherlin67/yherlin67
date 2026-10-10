@@ -1,8 +1,8 @@
 <p align="center">
-  <img src ="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=0:0f172a,100:1e3a5f&fontColor=70a5fd&section=header&reversal=false&text=Bonjour+%21&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&desc=Moi+c%27est+Yanis&descSize=26&descAlign=50&descAlignY=80"/>
+  <img src ="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=0:0f172a,100:1e3a5f&fontColor=5e95ec&section=header&reversal=false&text=Bonjour+%21&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&desc=Moi+c%27est+Yanis&descSize=26&descAlign=50&descAlignY=80"/>
 </p>
 
-Je m'appelle Yanis et je suis étudiant à l'université de Strasbourg, en première année de BUT informatique.
+Je m'appelle Yanis, j'ai 18 ans et je suis étudiant à l'université de Strasbourg, en deuxième année de BUT informatique.
 
 J'ai déjà rencontré plusieurs concepts clés dans le cadre de ma formation, dont :
 - La programmation orientée objet
@@ -19,7 +19,11 @@ De plus, je souhaiterais approfondir mes connaissances en réseaux informatiques
 
 Sur mon profil, vous pourrez retrouver plusieurs projets auxquels j'ai eu l'occasion de contribuer durant mon cursus.
 
-# Mes statistiques
+## 💭​ En ce moment...
+- Je suis en train de me former à l'utilisation de l'outil Claude Code.
+- J'essaye de créer un site web manipulant PHP et IA, pour les enseignants, servant à générer des remarques de bulletin scolaire.
+
+## 📊 Mes statistiques
 
 <div align="center">
   
@@ -29,7 +33,7 @@ Sur mon profil, vous pourrez retrouver plusieurs projets auxquels j'ai eu l'occa
 
 </div>
 
-# Mes projets
+## 📝 Mes projets
 
 Mes projets épinglés reflètent les différents domaines abordés durant ma 1ère année de BUT Informatique. On y retrouve une application de gestion de données WinForms en C#, un jeu de stratégie utilisant la programmation orientée objet en Java, ainsi qu'une simulation des échanges bas niveau au sein d'un réseau en C. Chacun d'entre eux m'a permis de mettre en pratique des notions vues en formation, et d'améliorer mes compétences en informatique.
 
