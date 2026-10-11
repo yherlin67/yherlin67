@@ -21,7 +21,7 @@ Sur mon profil, vous pourrez retrouver plusieurs projets auxquels j'ai eu l'occa
 
 ## 💭​ En ce moment...
 - Je suis en train de me former à l'utilisation de l'outil Claude Code.
-- J'essaye de créer un site web manipulant PHP et IA, pour les enseignants, servant à générer des remarques de bulletin scolaire.
+- J'essaye de créer un site web manipulant PHP et IA, servant à générer une liste de repas pour la semaine à partir de différentes informations transmises.
 
 ## 📊 Mes statistiques
 
