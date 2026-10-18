@@ -2,22 +2,22 @@
   <img src ="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=0:0f172a,100:1e3a5f&fontColor=5e95ec&section=header&reversal=false&text=Bonjour+%21&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&desc=Moi+c%27est+Yanis&descSize=26&descAlign=50&descAlignY=80"/>
 </p>
 
-Je m'appelle Yanis, j'ai 18 ans et je suis étudiant à l'université de Strasbourg, en deuxième année de BUT informatique.
+Je m'appelle Yanis, j'ai 18 ans et je suis étudiant à l'Université de Strasbourg, en deuxième année de BUT informatique.
 
 J'ai déjà rencontré plusieurs concepts clés dans le cadre de ma formation, dont :
 - La programmation orientée objet
-- La programmation DotNet pour Winform
+- La programmation .NET pour WinForms
 - La communication bas niveau
 - La gestion des bases de données
 
-Par ailleurs, j'ai aussi pu acquérir des notions de droit, d'économie, et de gestion.
+Par ailleurs, j'ai aussi pu acquérir des notions de droit, d'économie et de gestion.
 
-Concernant les différents systèmes d'exploitations, je les maîtrise tous.
+Concernant les différents systèmes d'exploitation, je suis à l'aise aussi bien sous Windows que sous Linux ou macOS.
 
-Personnellement, j'aime bien le développement web front-end, la programmation sous toutes ses formes, et les mathématiques.
+Personnellement, j'apprécie le développement web, la programmation sous toutes ses formes et les mathématiques.
 De plus, je souhaiterais approfondir mes connaissances en réseaux informatiques et mieux comprendre les mécanismes de l'intelligence artificielle.
 
-Sur mon profil, vous pourrez retrouver plusieurs projets auxquels j'ai eu l'occasion de contribuer durant mon cursus.
+Sur mon profil, vous pourrez retrouver plusieurs projets auxquels j'ai eu l'occasion de contribuer durant mon cursus, ainsi que des projets personnels.
 
 ## 💭​ En ce moment...
 - Je suis en train de me former à l'utilisation de l'outil Claude Code.
