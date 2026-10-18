@@ -2,7 +2,7 @@
   <img src ="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=0:0f172a,100:1e3a5f&fontColor=5e95ec&section=header&reversal=false&text=Bonjour+%21&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&desc=Moi+c%27est+Yanis&descSize=26&descAlign=50&descAlignY=80"/>
 </p>
 
-Je m'appelle Yanis, j'ai 18 ans et je suis étudiant à l'Université de Strasbourg, en deuxième année de BUT informatique.
+Je m'appelle Yanis, j'ai 18 ans et je suis étudiant à l'Université de Strasbourg, en deuxième année de BUT Informatique.
 
 J'ai déjà rencontré plusieurs concepts clés dans le cadre de ma formation, dont :
 - La programmation orientée objet
